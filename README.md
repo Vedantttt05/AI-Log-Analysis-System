@@ -140,13 +140,13 @@ This project is under active development. Features and documentation will be upd
 ![Dashboard](screenshots/Dashboard.png)
 
 ### Log Explorer
-![Log Explorer](screenshots/Log Explorer.png)
+![Log Explorer](screenshots/LogExplorer.png)
 
 ### Security Signals
-![Security Signals](screenshots/Security Signals.png)
+![Security Signals](screenshots/SecuritySignals.png)
 
 ### Import Logs
-![Import Logs](screenshots/Import Logs.png)
+![Import Logs](screenshots/ImportLogs.png)
 ## Author
 
 Vedant
