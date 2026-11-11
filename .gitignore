@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+*.pdf
+
+# Test cache
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editor
+.vscode/
