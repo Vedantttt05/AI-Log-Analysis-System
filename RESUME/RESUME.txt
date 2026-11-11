@@ -1,0 +1,10 @@
+### AI Log Analysis System (A-LAS)
+**Technologies:** Python, Streamlit, SQLite, SQLAlchemy, Pandas, Pytest
+
+- Developed a Python-based log analysis application for collecting, storing and exploring application and system logs.
+- Implemented SQLite database integration using SQLAlchemy ORM.
+- Built log insertion, retrieval, severity filtering and duplicate detection functionality.
+- Created automated database tests using Pytest.
+- Developing log ingestion, parsing, security analytics and anomaly detection capabilities.
+
+**GitHub:**https://github.com/Vedantttt05/AI-Log-Analysis-System
